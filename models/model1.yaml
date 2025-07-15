@@ -1,0 +1,9 @@
+title: model1
+x-stoplight:
+  id: m5770lydkc93z
+type: object
+properties:
+  id:
+    type: string
+    x-stoplight:
+      id: w8ige5hcc5h0j
